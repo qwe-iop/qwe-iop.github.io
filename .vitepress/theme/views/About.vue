@@ -5,8 +5,8 @@
       <!-- 介绍 -->
       <div class="about-item hello">
         <span class="text1">你好，很高兴认识你👋</span>
-        <span class="text2 title2">我是 九天之上</span>  
-        <span class="text3">是一名 又菜又爱玩的小白</span>
+        <span class="text2 title2">我是 Carrotchicken</span>  
+        <span class="text3">是一只萝卜鸡</span>
       </div>
       <!-- 追求 -->
       <div class="about-item pursuit">
@@ -44,8 +44,8 @@
           <i>無限進步</i>
         </span>
         <div class="list">
-          <span class="list-item" style="--color: #357ef5">法学学士</span>
-          <span class="list-item" style="--color: #eb372a">房地产营销管理</span>
+          <span class="list-item" style="--color: #357ef5">666</span>
+          <span class="list-item" style="--color: #eb372a">666</span>
         </div>
         <img
           class="career-img"
@@ -58,14 +58,14 @@
       <!-- 性格 -->
       <div class="about-item character" style="--color: #4298b4">
         <span class="tip">性格</span>
-        <span class="title2">执政官</span>
-        <span class="title2" style="color: var(--color)">ESFJ-A</span>
+        <span class="title2">提倡者</span>
+        <span class="title2" style="color: var(--color)">INFJ-T</span>
         <span class="more">
           在
           <a href="https://www.16personalities.com/ch/" target="_blank">16personalities</a>
           了解更多关于
-          <a href="https://www.16personalities.com/ch/esfj-%E4%BA%BA%E6%A0%BC" target="_blank">
-            执政官
+          <a href="https://www.16personalities.com/ch/infj-人格" target="_blank">
+            提倡者
           </a>
         </span>
         <img
@@ -77,8 +77,8 @@
       <!-- 座右铭 -->
       <div class="about-item">
         <span class="tip">座右铭</span>
-        <span class="title1" style="margin-top: 20px">脚踏实地，</span>
-        <span class="title2">一丝不苟。</span>
+        <span class="title1" style="margin-top: 20px">求木之长者，</span>
+        <span class="title2">必固其根本。</span>
       </div>
     </div>
     <div class="about-content" style="grid-template-columns: 1fr 1fr">
@@ -91,9 +91,9 @@
       >
         <div class="image-content">
           <span class="tip">关注偏好</span>
-          <span class="title2">数码科技</span>
+          <span class="title2">c++</span>
           <div class="image-desc">
-            <span class="left">手机、电脑及软硬件</span>
+            <span class="left">math&chemistry</span>
           </div>
         </div>
       </div>
@@ -106,9 +106,9 @@
       >
         <div class="image-content">
           <span class="tip">音乐偏好</span>
-          <span class="title2">华语流行、摇滚、中国风、民谣</span>
+          <span class="title2">无</span>
           <div class="image-desc">
-            <span class="left">一起欣赏更多音乐</span>
+            <span class="left"><a href="https://github.com/lyswhut/lx-music-desktop" target="_blank">lx-music</a></span>
           </div>
         </div>
       </div>
@@ -144,7 +144,7 @@
           class="about-item map image"
           style="background-image: url(https://pan.811520.xyz/2024-10/1730361853-1730361845894.webp)"
         >
-          <span class="position">我现在住在 <strong>中国，武汉</strong></span>
+          <span class="position">我现在住在 <strong>中国，浙江</strong></span>
         </div>
         <div class="about-item info">
           <div class="info-item">
@@ -153,7 +153,7 @@
           </div>
           <div class="info-item">
             <span class="info-name">现在职业</span>
-            <span class="info-num" style="--color: #dfac46">资深房地产营销管理</span>
+            <span class="info-num" style="--color: #dfac46">保密</span>
           </div>
         </div>
       </div>
