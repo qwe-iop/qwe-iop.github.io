@@ -8,9 +8,9 @@
       image="https://pan.811520.xyz/2024-10/1730367564-1730367553978.webp"
     >
       <template #footer-slot>
-        <a class="to-github" href="https://github.com/yutian81/" target="_blank">
+        <a class="to-github" href="https://www.luogu.com.cn" targeqwe-iot="_blank">
           <i class="iconfont icon-github"></i>
-          <span>前往 Github</span>
+          <span>前往 Luogu</span>
         </a>
       </template>
     </Banner>
