@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>九天之上</title>
+        <link>https://blog2.811520.xyz</link>
+        <description>基于 vitepress-theme-curve 搭建的 github pages 站点</description>
+        <lastBuildDate>Sun, 10 Aug 2025 10:10:57 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>雨天狂奔</generator>
+        <language>zh</language>
+        <copyright>Copyright © 2020-present 雨天狂奔</copyright>
+        <item>
+            <title><![CDATA[欢迎使用 Curve]]></title>
+            <link>https://blog2.811520.xyz/posts/2024-10/1010</link>
+            <guid>https://blog2.811520.xyz/posts/2024-10/1010</guid>
+            <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[欢迎使用 Curve 主题，这是你的第一篇文章]]></description>
+            <author>admin@24811213.xyz (雨天狂奔)</author>
+        </item>
+        <item>
+            <link>https://blog2.811520.xyz/posts/题解P11000</link>
+            <guid>https://blog2.811520.xyz/posts/题解P11000</guid>
+            <author>admin@24811213.xyz (雨天狂奔)</author>
+        </item>
+    </channel>
+</rss>
